@@ -1,4 +1,4 @@
 # hello-world
 just another repository 
-this is source of some Android application.
+this is source of some scripts.
 
